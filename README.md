@@ -11,7 +11,7 @@ With this project we can do the following:
 2. Get the alive pieces in the board.
 3. Get the possible positions of the pieces in the board.
 4. Print all the pieces in the board with its position as a grid.
-5. {rint all possible moves of a given piece in a grid.
+5. Print all possible moves of a given piece in a grid.
 
 
 # Moves
